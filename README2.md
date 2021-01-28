@@ -5,4 +5,4 @@ dibuat oleh :
 [Martua Anggasana](https://github.com/angghero).
 
 ![alt text](https://github.com/k33ptoo/School-Management-System-Inspiration/blob/master/img1.png)
-sadsada
+sadsadadasdadsaasdasda
